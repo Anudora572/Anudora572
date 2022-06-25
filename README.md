@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [will be available soon](will be available soon)
-
+- 👨‍💻 All of my projects are available at https://anushkahtml123.s3.us-east-2.amazonaws.com/folio-master/index.html
 - 📫 How to reach me **anushkatanu01@gmail.com**
 
 - 📄 Know about my projects and trainings [https://drive.google.com/file/d/1vaVtYOX_FU5mR9bQtAfhDJJL0EosgyWq/view?usp=sharing](https://drive.google.com/file/d/1vaVtYOX_FU5mR9bQtAfhDJJL0EosgyWq/view?usp=sharing)
